@@ -1,5 +1,4 @@
 import type { AppProps } from "next/app";
-// import "antd/dist/";
 import "../styles/antd-theme.less";
 
 function MyApp({ Component, pageProps }: AppProps) {
